@@ -24,4 +24,4 @@ Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer
 
 #### Podcast
 
-- Papo On 13 - Participação como convidado, tópicos: carreira, Google Developer Groups (GDG) and Academy **(pt-BR)** - https://www.youtube.com/watch?v=hbvvGAczaaM&t=1650s
+- Papo On 13 - Participação como convidado, tópicos: carreira, AI, LLMs, Google Developer Groups (GDG) e Universidades **(pt-BR)** - https://www.youtube.com/watch?v=hbvvGAczaaM&t=1650s
