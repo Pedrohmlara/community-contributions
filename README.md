@@ -7,6 +7,14 @@ Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer
 
 ## Contributions
 
+### 2025
+
+#### Articles
+- Fundamentals of Artificial Intelligence: Exploring Machine Learning, Deep Learning, and Generative AI **(en)** - https://medium.com/@pedrohmlara/fundamentals-of-artificial-intelligence-exploring-machine-learning-deep-learning-and-generative-984ee4ad9fe0
+
+#### Videos
+- Fundamentos da Inteligência Artificial: Explorando ML, Deep Learning e GenAI **(pt-BR)** - https://youtu.be/r0WO-2_gVYA?si=XYkRw5M2Juxdglzq
+
 ### Until 2024
 
 #### Talks
