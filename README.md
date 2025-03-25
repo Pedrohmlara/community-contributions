@@ -3,6 +3,8 @@ Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer
 
 - Medium: https://medium.com/@pedrohmlara
 - LinkedIn: https://www.linkedin.com/in/pedrohmlara/
+- YouTube: https://www.youtube.com/@pedrohmlara
+- Instagram: https://www.instagram.com/pedrohmlara/
 - Google Developer Profile: https://g.dev/pedrohmlara
 
 ## Contributions
