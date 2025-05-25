@@ -1,0 +1,978 @@
+{
+  "Oral synechia": {
+    "common_symptoms": [
+      "Oral fibrous bands"
+    ],
+    "differentiating_symptoms": [
+      "Synechiae of the mouth"
+    ],
+    "description": "Fibrous band between the mucosal surfaces of the upper and lower alveolar ridges. These bands must be distinguished from synechiaee between the tongue and palate (glossopalatal ankylosis) and from syn...",
+    "hpo_id": "0010285",
+    "related_terms": [
+      "Oral fibrous bands",
+      "Synechiae of the mouth"
+    ],
+    "category": "general"
+  },
+  "Patchy sclerosis of thumb phalanx": {
+    "common_symptoms": [
+      "Patchy sclerosis of the phalanges of the thumb"
+    ],
+    "differentiating_symptoms": [
+      "Uneven increase in bone density in thumb bone"
+    ],
+    "description": "An uneven increase in bone density of one or more of the phalanges of the thumb.",
+    "hpo_id": "0009655",
+    "related_terms": [
+      "Patchy sclerosis of the phalanges of the thumb",
+      "Uneven increase in bone density in thumb bone"
+    ],
+    "category": "musculoskeletal"
+  },
+  "Reduced leukocyte alkaline phosphatase": {
+    "common_symptoms": [
+      "Low leukocyte alkaline phosphatase"
+    ],
+    "differentiating_symptoms": [
+      "Reduced leukocyte ALP"
+    ],
+    "description": "Decreased alkaline phosphatase measured within leukocytes.",
+    "hpo_id": "0004852",
+    "related_terms": [
+      "Low leukocyte alkaline phosphatase",
+      "Reduced leukocyte ALP"
+    ],
+    "category": "general"
+  },
+  "Aplasia/Hypoplasia of the vagina": {
+    "common_symptoms": [
+      "Absent/small vagina"
+    ],
+    "differentiating_symptoms": [
+      "Absent/underdeveloped vagina"
+    ],
+    "description": "Aplasia or developmental hypoplasia of the vagina.",
+    "hpo_id": "0011026",
+    "related_terms": [
+      "Absent/small vagina",
+      "Absent/underdeveloped vagina"
+    ],
+    "category": "neurological"
+  },
+  "Hypoprolinemia": {
+    "common_symptoms": [
+      "Decreased blood proline levels"
+    ],
+    "differentiating_symptoms": [
+      "Low blood proline concentration"
+    ],
+    "description": "A decreased amount of proline in the blood.",
+    "hpo_id": "0500139",
+    "related_terms": [
+      "Decreased blood proline levels",
+      "Low blood proline concentration"
+    ],
+    "category": "general"
+  },
+  "Eosinophilic infiltration of the esophagus": {
+    "common_symptoms": [
+      "Eosinophilic esophagitis"
+    ],
+    "differentiating_symptoms": [
+      "Eosinophilic infiltration of the esophagus"
+    ],
+    "description": "Infiltration of numerous eosinophils (usually greater than 15 per high power field) into the squamous epithelium of the esophagus, and layering of eosinophils on the surface layer of the esophagus.",
+    "hpo_id": "0410151",
+    "related_terms": [
+      "Eosinophilic esophagitis",
+      "Eosinophilic infiltration of the esophagus"
+    ],
+    "category": "general"
+  },
+  "Areflexia": {
+    "common_symptoms": [
+      "Absent reflexes",
+      "Absent deep tendon reflexes",
+      "Absent tendon reflexes"
+    ],
+    "differentiating_symptoms": [
+      "Deep tendon reflexes absent",
+      "Loss of deep tendon reflexes",
+      "Lost deep tendon reflexes"
+    ],
+    "description": "Absence of neurologic reflexes such as the knee-jerk reaction. The stretch reflexes (also called deep tendon reflexes) include the knee-jerk reflex (patellar reflex, the biceps reflex, the triceps ref...",
+    "hpo_id": "0001284",
+    "related_terms": [
+      "Absent reflexes",
+      "Absent deep tendon reflexes",
+      "Absent tendon reflexes"
+    ],
+    "category": "neurological"
+  },
+  "Neoplasm of the pancreas": {
+    "common_symptoms": [
+      "Cancer of the pancreas",
+      "Pancreatic cancer",
+      "Neoplasia of the pancreas"
+    ],
+    "differentiating_symptoms": [
+      "Pancreatic tumor",
+      "Pancreatic tumour",
+      "increased risk of pancreatic cancer"
+    ],
+    "description": "A tumor (abnormal growth of tissue) of the pancreas.",
+    "hpo_id": "0002894",
+    "related_terms": [
+      "Cancer of the pancreas",
+      "Pancreatic cancer",
+      "Neoplasia of the pancreas"
+    ],
+    "category": "endocrine"
+  },
+  "Thick vermilion border": {
+    "common_symptoms": [
+      "Full lips",
+      "Increased volume of lip",
+      "Increased volume of lip vermillion"
+    ],
+    "differentiating_symptoms": [
+      "Plump lips",
+      "Prominent lips",
+      "Thick lips"
+    ],
+    "description": "Increased width of the skin of vermilion border region of upper lip.",
+    "hpo_id": "0012471",
+    "related_terms": [
+      "Full lips",
+      "Increased volume of lip",
+      "Increased volume of lip vermillion"
+    ],
+    "category": "dermatological"
+  },
+  "Bifid femur": {
+    "common_symptoms": [
+      "Notched thighbone"
+    ],
+    "differentiating_symptoms": [
+      "Split thighbone"
+    ],
+    "description": "A bifid or bifurcated appearance of the femur as seen on x-rays, possible appearing as a more or less severe bowing of the upper leg. Might be associated with hip dysplasia on the affected side.",
+    "hpo_id": "0010443",
+    "related_terms": [
+      "Notched thighbone",
+      "Split thighbone"
+    ],
+    "category": "sensory"
+  },
+  "Anonychia": {
+    "common_symptoms": [
+      "Absent nails"
+    ],
+    "differentiating_symptoms": [
+      "Aplastic nails"
+    ],
+    "description": "Aplasia of the nail. Total absence of nails.",
+    "hpo_id": "0001798",
+    "related_terms": [
+      "Absent nails",
+      "Aplastic nails"
+    ],
+    "category": "dermatological"
+  },
+  "Subpulmonary stenosis": {
+    "common_symptoms": [
+      "Infundibular pulmonary stenosis",
+      "Infundibular pulmonic stenosis",
+      "Subvalvar pulmonary stenosis"
+    ],
+    "differentiating_symptoms": [
+      "Subvalvar pulmonic stenosis",
+      "Subvalvular pulmonary stenosis",
+      "Subvalvular pulmonic stenosis"
+    ],
+    "description": "A cardiovascular malformation associated with narrowing of the outflow tract of the right ventricle immediately below the pulmonary valve.",
+    "hpo_id": "0034348",
+    "related_terms": [
+      "Infundibular pulmonary stenosis",
+      "Infundibular pulmonic stenosis",
+      "Subvalvar pulmonary stenosis"
+    ],
+    "category": "cardiovascular"
+  },
+  "Knee pain": {
+    "common_symptoms": [
+      "Pain under knee cap",
+      "Knee pain"
+    ],
+    "differentiating_symptoms": [],
+    "description": "An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the knee.",
+    "hpo_id": "0030839",
+    "related_terms": [],
+    "category": "general"
+  },
+  "Bilateral basilar pulmonary fibrosis": {
+    "common_symptoms": [
+      "Lung disease with systemic sclerosis"
+    ],
+    "differentiating_symptoms": [
+      "Scleroderma lung disease",
+      "Scleroderma of lung"
+    ],
+    "description": "It is a bilateral reticular pattern of linear or lineonodular densities that are most pronounced in basilar portions of the lungs on standard chest x-ray. It is the third minor criterion for scleroder...",
+    "hpo_id": "0550005",
+    "related_terms": [
+      "Lung disease with systemic sclerosis",
+      "Scleroderma lung disease",
+      "Scleroderma of lung"
+    ],
+    "category": "respiratory"
+  },
+  "Proximal/middle symphalangism of 4th toe": {
+    "common_symptoms": [
+      "Fused innermost and middle bones of 4th toe"
+    ],
+    "differentiating_symptoms": [
+      "Symphalangism of the middle and proximal phalanges of the 4th toe"
+    ],
+    "description": "Bony fusion of the middle and proximal phalanges of the 4th toe.",
+    "hpo_id": "0100481",
+    "related_terms": [
+      "Fused innermost and middle bones of 4th toe",
+      "Symphalangism of the middle and proximal phalanges of the 4th toe"
+    ],
+    "category": "general"
+  },
+  "Almond-shaped palpebral fissure": {
+    "common_symptoms": [
+      "Almond shaped eyes"
+    ],
+    "differentiating_symptoms": [
+      "Almond-shaped opening between the eyelids"
+    ],
+    "description": "A shape created by an acute downward arching of the upper eyelid and upward arching of the lower eyelid, toward the medial canthus, which gives the outline of the palpebral fissures the configuration ...",
+    "hpo_id": "0007874",
+    "related_terms": [
+      "Almond shaped eyes",
+      "Almond-shaped opening between the eyelids"
+    ],
+    "category": "sensory"
+  },
+  "Renal neoplasm": {
+    "common_symptoms": [
+      "Kidney cancer",
+      "Neoplasia of the kidneys"
+    ],
+    "differentiating_symptoms": [
+      "Renal tumors",
+      "Renal tumours",
+      "Renal neoplasia"
+    ],
+    "description": "The presence of a neoplasm of the kidney.",
+    "hpo_id": "0009726",
+    "related_terms": [
+      "Kidney cancer",
+      "Neoplasia of the kidneys",
+      "Renal tumors"
+    ],
+    "category": "gastrointestinal"
+  },
+  "Punctal stenosis": {
+    "common_symptoms": [
+      "Lacrimal punctum stenosis"
+    ],
+    "differentiating_symptoms": [
+      "Stenosis of the lacrimal punctum"
+    ],
+    "description": "Punctal stenosis is a condition in which the external opening of the lacrimal canaliculus is narrowed or occluded. Epiphora is a common complaint encountered by ophthalmologists, with a broad differen...",
+    "hpo_id": "0025572",
+    "related_terms": [
+      "Lacrimal punctum stenosis",
+      "Stenosis of the lacrimal punctum"
+    ],
+    "category": "general"
+  },
+  "Posterior plagiocephaly": {
+    "common_symptoms": [
+      "Deformational posterior plagiocephaly"
+    ],
+    "differentiating_symptoms": [
+      "Occipital plagiocephaly"
+    ],
+    "description": "Asymmetry of the posterior part of the skull. Anterior plagiocephaly may have synostotic or non-synostotic causes.",
+    "hpo_id": "0011327",
+    "related_terms": [
+      "Deformational posterior plagiocephaly",
+      "Occipital plagiocephaly"
+    ],
+    "category": "general"
+  },
+  "Corner fracture of metaphysis": {
+    "common_symptoms": [
+      "Bucket handle fracture"
+    ],
+    "differentiating_symptoms": [
+      "Metaphyseal corner fracture"
+    ],
+    "description": "Fracture or fragmentation at the lateral portion of the metaphysis of a long bone. The radiographic appearance is that of a small corner of metaphysis separated from the metaphyseal edge by thin linea...",
+    "hpo_id": "0003908",
+    "related_terms": [
+      "Bucket handle fracture",
+      "Metaphyseal corner fracture"
+    ],
+    "category": "musculoskeletal"
+  },
+  "Fetal procarbazine exposure": {
+    "common_symptoms": [
+      "Maternal procarbazine exposure"
+    ],
+    "differentiating_symptoms": [
+      "Procarbazine exposure during gestation"
+    ],
+    "description": "A history of exposure during pregnancy of the mother of a fetus or child to procarbazine.",
+    "hpo_id": "0034845",
+    "related_terms": [
+      "Maternal procarbazine exposure",
+      "Procarbazine exposure during gestation"
+    ],
+    "category": "general"
+  },
+  "Parietal foramina": {
+    "common_symptoms": [
+      "Persistent foramina of the parietal bones",
+      "Symmetrical, oval defects in the parietal bone"
+    ],
+    "differentiating_symptoms": [
+      "Symmetrical, oval parietal bone defects",
+      "Holes in parietal bones",
+      "Openings in parietal bones"
+    ],
+    "description": "The presence of symmetrical and circular openings (foramina) in the parietal bone ranging in size from a few millimeters to several centimeters wide. Enlarged parietal foramina is an inherited conditi...",
+    "hpo_id": "0002697",
+    "related_terms": [
+      "Persistent foramina of the parietal bones",
+      "Symmetrical, oval defects in the parietal bone",
+      "Symmetrical, oval parietal bone defects"
+    ],
+    "category": "musculoskeletal"
+  },
+  "Abnormal mast cell morphology": {
+    "common_symptoms": [
+      "Abnormality of mast cells",
+      "Abnormality of mastocytes"
+    ],
+    "differentiating_symptoms": [],
+    "description": "Any structural anomaly of mast cells, which are found in almost all tissues and contain numerous basophilic granules and are capable of releasing large amounts of histamine and heparin upon activation...",
+    "hpo_id": "0100494",
+    "related_terms": [],
+    "category": "general"
+  },
+  "Fundic gland polyposis": {
+    "common_symptoms": [
+      "Fundic gland polyps"
+    ],
+    "differentiating_symptoms": [
+      "Gastric polyposis",
+      "Proximal polyposis of the stomach"
+    ],
+    "description": "Multiple polyps in the acid-secreting mucosa of the gastric body and fundus. Fundic gland polyps (FGP) are usually 1 to 5 mm in size, though larger polyps have been found. FGPs are typically sessile, ...",
+    "hpo_id": "0033769",
+    "related_terms": [
+      "Fundic gland polyps",
+      "Gastric polyposis",
+      "Proximal polyposis of the stomach"
+    ],
+    "category": "general"
+  },
+  "Deviated nasal tip": {
+    "common_symptoms": [
+      "Asymmetry of nasal tip",
+      "Asymmetry of tip of nose",
+      "Crooked nasal tip",
+      "Crooked tip of nose"
+    ],
+    "differentiating_symptoms": [
+      "Deviated nasal tip",
+      "Deviated tip of nose",
+      "Nasal tip, deviated",
+      "Distortion of the nasal tip"
+    ],
+    "description": "Nasal tip positioned to one side of the midline. There is no specific minimal angle before the tip can be determined to be deviated. The assessment of a mild degree of deviation is highly dependant on...",
+    "hpo_id": "0011831",
+    "related_terms": [
+      "Asymmetry of nasal tip",
+      "Asymmetry of tip of nose",
+      "Crooked nasal tip"
+    ],
+    "category": "general"
+  },
+  "Prominent umbilicus": {
+    "common_symptoms": [
+      "Prominent belly button"
+    ],
+    "differentiating_symptoms": [
+      "Prominent navel"
+    ],
+    "description": "Abnormally prominent umbilicus (belly button).",
+    "hpo_id": "0001544",
+    "related_terms": [
+      "Prominent belly button",
+      "Prominent navel"
+    ],
+    "category": "general"
+  },
+  "Bronchial wall thickening": {
+    "common_symptoms": [
+      "Peribronchial cuffing"
+    ],
+    "differentiating_symptoms": [
+      "Peribronchial thickening"
+    ],
+    "description": "Radiological appearance of increased density around the walls of a bronchus or large bronchiole. This feature is thought to be related to edema involving the bronchial wall as well as the peribronchia...",
+    "hpo_id": "0033542",
+    "related_terms": [
+      "Peribronchial cuffing",
+      "Peribronchial thickening"
+    ],
+    "category": "respiratory"
+  },
+  "Underdeveloped antitragus": {
+    "common_symptoms": [
+      "Hypoplastic antitragus"
+    ],
+    "differentiating_symptoms": [
+      "Hypotrophic antitragus",
+      "Small antitragus"
+    ],
+    "description": "Reduction in the anterosuperior prominence of the area between the bottom of the incisura and the inner margin of the antihelix.",
+    "hpo_id": "0011251",
+    "related_terms": [
+      "Hypoplastic antitragus",
+      "Hypotrophic antitragus",
+      "Small antitragus"
+    ],
+    "category": "general"
+  },
+  "Decreased CD8+ TEMRA T cell proportion": {
+    "common_symptoms": [
+      "Decreased proportion effector memory CD8-positive, alpha-beta T cells, terminally differentiated"
+    ],
+    "differentiating_symptoms": [
+      "Decreased proportion of CD8-positive TEMRA T cells"
+    ],
+    "description": "An decreased proportion of CD8-positive effector memory RA TEMRA T cells compared to the total number of T cells in the blood. These cells have the phenotype CD45RA-positive, CD45RO-negative, and CCR7...",
+    "hpo_id": "0500266",
+    "related_terms": [
+      "Decreased proportion effector memory CD8-positive, alpha-beta T cells, terminally differentiated",
+      "Decreased proportion of CD8-positive TEMRA T cells"
+    ],
+    "category": "general"
+  },
+  "Infra-orbital crease": {
+    "common_symptoms": [
+      "Crease in skin under the eye",
+      "Groove in skin under the eye"
+    ],
+    "differentiating_symptoms": [
+      "Infraorbital crease",
+      "Infraorbital creases",
+      "Underorbital skin creases"
+    ],
+    "description": "Skin crease extending from below the inner canthus laterally along the malar process of the maxilla and zygoma. This feature is often found in the presence of hypoplasia of the malar process of the ma...",
+    "hpo_id": "0100876",
+    "related_terms": [
+      "Crease in skin under the eye",
+      "Groove in skin under the eye",
+      "Infraorbital crease"
+    ],
+    "category": "dermatological"
+  },
+  "Myofiber disarray": {
+    "common_symptoms": [
+      "Myocardial fiber disarray"
+    ],
+    "differentiating_symptoms": [
+      "Myocardial fibre disarray"
+    ],
+    "description": "A nonparallel arrangement of cardiac myocytes. The presence of a sufficient quantity of myocardial fibers showing this change is considered to be a specific histological feature of hypertrophic cardio...",
+    "hpo_id": "0031318",
+    "related_terms": [
+      "Myocardial fiber disarray",
+      "Myocardial fibre disarray"
+    ],
+    "category": "cardiovascular"
+  },
+  "Parageusia": {
+    "common_symptoms": [
+      "Altered sense of taste",
+      "Dysgeusia"
+    ],
+    "differentiating_symptoms": [
+      "Metallic taste",
+      "Metallic taste in mouth"
+    ],
+    "description": "A distortion of the sense of taste, often characterized by the sensation of a metallic taste.",
+    "hpo_id": "0031249",
+    "related_terms": [
+      "Altered sense of taste",
+      "Dysgeusia",
+      "Metallic taste"
+    ],
+    "category": "general"
+  },
+  "Broad proximal phalanges of the hand": {
+    "common_symptoms": [
+      "Broad innermost finger bones of the hand"
+    ],
+    "differentiating_symptoms": [
+      "Wide innermost finger bones of the hand"
+    ],
+    "description": "Increased width of the proximal phalanges of the finger.",
+    "hpo_id": "0009852",
+    "related_terms": [
+      "Broad innermost finger bones of the hand",
+      "Wide innermost finger bones of the hand"
+    ],
+    "category": "general"
+  },
+  "Vestibular schwannoma": {
+    "common_symptoms": [
+      "Acoustic Neuroma",
+      "Vestibular Schwann cell tumor",
+      "Vestibular Schwann cell tumour"
+    ],
+    "differentiating_symptoms": [
+      "Vestibular neurilemmoma",
+      "Vestibular neurinoma",
+      "Vestibular neurolemmoma"
+    ],
+    "description": "A vestibular schwannoma (also known as acoustic neuroma, acoustic neurinoma, or acoustic neurilemoma) is a benign, usually slow-growing tumor that develops from the VIIIth cranial nerve supplying the ...",
+    "hpo_id": "0009588",
+    "related_terms": [
+      "Acoustic Neuroma",
+      "Vestibular Schwann cell tumor",
+      "Vestibular Schwann cell tumour"
+    ],
+    "category": "sensory"
+  },
+  "Limited ankle dorsiflexion": {
+    "common_symptoms": [
+      "Heel cord tightness"
+    ],
+    "differentiating_symptoms": [
+      "Tight heel cord"
+    ],
+    "description": "Reduced ability to move the foot up toward the shin.",
+    "hpo_id": "0033526",
+    "related_terms": [
+      "Heel cord tightness",
+      "Tight heel cord"
+    ],
+    "category": "general"
+  },
+  "Cataract": {
+    "common_symptoms": [
+      "Cataracts",
+      "Clouding of the lens of the eye"
+    ],
+    "differentiating_symptoms": [
+      "Cloudy lens",
+      "Lens opacities",
+      "Lens opacity"
+    ],
+    "description": "A cataract is an opacity or clouding that develops in the crystalline lens of the eye or in its capsule. Note that some ophthalmologists call any opacity in the lens a cataract, while others restrict ...",
+    "hpo_id": "0000518",
+    "related_terms": [
+      "Cataracts",
+      "Clouding of the lens of the eye",
+      "Cloudy lens"
+    ],
+    "category": "sensory"
+  },
+  "Appendicular spasticity": {
+    "common_symptoms": [
+      "Extremity spasticity",
+      "Limb spasticity",
+      "Spastic extremities",
+      "Spastic limb"
+    ],
+    "differentiating_symptoms": [
+      "Spastic limbs",
+      "Spasticity of extremities",
+      "Spasticity of extremity",
+      "Spasticity of limbs"
+    ],
+    "description": "A type of spasticity that affects one or more limbs (arms or legs).",
+    "hpo_id": "0034353",
+    "related_terms": [
+      "Extremity spasticity",
+      "Limb spasticity",
+      "Spastic extremities"
+    ],
+    "category": "musculoskeletal"
+  },
+  "Supernumerary cusp": {
+    "common_symptoms": [
+      "Additional cusp"
+    ],
+    "differentiating_symptoms": [
+      "Extra cusp"
+    ],
+    "description": "Additional cusps of a dental crown. The crown is the part of the tooth that is visible in the oral cavity. Supernumerary cusps can occur on any tooth with cusps. Canines possess a single cusp, premola...",
+    "hpo_id": "0033777",
+    "related_terms": [
+      "Additional cusp",
+      "Extra cusp"
+    ],
+    "category": "general"
+  },
+  "Acute kidney injury": {
+    "common_symptoms": [],
+    "differentiating_symptoms": [
+      "Acute kidney failure",
+      "Acute renal failure"
+    ],
+    "description": "Sudden loss of renal function, as manifested by decreased urine production, and a rise in serum creatinine or blood urea nitrogen concentration (azotemia). Acute renal failure is usually classified in...",
+    "hpo_id": "0001919",
+    "related_terms": [
+      "AKI"
+    ],
+    "category": "gastrointestinal"
+  },
+  "Diverticulosis of trachea": {
+    "common_symptoms": [
+      "Tracheal diverticulosis",
+      "Tracheal diverticulum"
+    ],
+    "differentiating_symptoms": [
+      "Tracheocele",
+      "Paratracheal air cyst"
+    ],
+    "description": "Tracheal diverticula are blind-ended outpouchings arising from the trachea. They are usually an incidental finding. Occasionally they can mimic pneumomediastinum. Tracheal diverticula are either conge...",
+    "hpo_id": "0006509",
+    "related_terms": [
+      "Tracheal diverticulosis",
+      "Tracheal diverticulum",
+      "Tracheocele"
+    ],
+    "category": "developmental"
+  },
+  "Mediastinal lymphadenopathy": {
+    "common_symptoms": [
+      "Swollen lymph nodes in center of chest"
+    ],
+    "differentiating_symptoms": [
+      "Swollen lymph nodes in centre of chest"
+    ],
+    "description": "Swelling of lymph nodes within the mediastinum, the central compartment of the thoracic cavities that contains the heart and the great vessels, the esophagus, and trachea and other structures includin...",
+    "hpo_id": "0100721",
+    "related_terms": [
+      "Swollen lymph nodes in center of chest",
+      "Swollen lymph nodes in centre of chest"
+    ],
+    "category": "cardiovascular"
+  },
+  "Addictive methylphenidate use": {
+    "common_symptoms": [
+      "Methylphenidate addiction"
+    ],
+    "differentiating_symptoms": [
+      "Methylphenidate dependence"
+    ],
+    "description": "Addiction to methylphenidate. Methylphenidate is used to treat attention deficit hyperactivity disorder.",
+    "hpo_id": "0033518",
+    "related_terms": [
+      "Methylphenidate addiction",
+      "Methylphenidate dependence"
+    ],
+    "category": "general"
+  },
+  "Radial dysplasia": {
+    "common_symptoms": [
+      "Radial longitudinal deficiency"
+    ],
+    "differentiating_symptoms": [],
+    "description": "Radial dysplasia, also known as radial longitudinal deficiency, includes radial clubhand and is a disfiguring, and potentially disabling, congenital limb anomaly. The entire upper limb may be involved...",
+    "hpo_id": "0006433",
+    "related_terms": [
+      "Dysplastic radii"
+    ],
+    "category": "musculoskeletal"
+  },
+  "Abnormal suspensory ligament of lens morphology": {
+    "common_symptoms": [
+      "Abnormality of the suspensory ligament of lens",
+      "Abnormality of zinn's membrane",
+      "Ciliary zonule abnormality",
+      "Zonule of zinn abnormality"
+    ],
+    "differentiating_symptoms": [],
+    "description": "An anomaly of the suspensory ligament of lens, also known as the ciliary zonule. These ligaments represent a series of fibers connecting the ciliary body and lens of the eye, holding the lens in place...",
+    "hpo_id": "0012628",
+    "related_terms": [],
+    "category": "sensory"
+  },
+  "Narrow uvula": {
+    "common_symptoms": [
+      "Narrow palatine uvula"
+    ],
+    "differentiating_symptoms": [
+      "Thin uvula"
+    ],
+    "description": "Decreased width of the uvula.",
+    "hpo_id": "0010811",
+    "related_terms": [
+      "Narrow palatine uvula",
+      "Thin uvula"
+    ],
+    "category": "general"
+  },
+  "Abnormal lacrimal bone morphology": {
+    "common_symptoms": [
+      "Anomaly of the lacrimal bone"
+    ],
+    "differentiating_symptoms": [
+      "Deformity of the lacrimal bone",
+      "Malformation of the lacrimal bone"
+    ],
+    "description": "An abnormality of the lacrimal bone.",
+    "hpo_id": "0430002",
+    "related_terms": [
+      "Anomaly of the lacrimal bone",
+      "Deformity of the lacrimal bone",
+      "Malformation of the lacrimal bone"
+    ],
+    "category": "musculoskeletal"
+  },
+  "Abnormality of extrapyramidal motor function": {
+    "common_symptoms": [
+      "Extrapyramidal dysfunction"
+    ],
+    "differentiating_symptoms": [],
+    "description": "A neurological condition related to lesions of the basal ganglia leading to typical abnormalities including akinesia (inability to initiate changes in activity and perform volitional movements rapidly...",
+    "hpo_id": "0002071",
+    "related_terms": [
+      "Extrapyramidal signs",
+      "Extrapyramidal symptoms",
+      "Extrapyramidal syndrome"
+    ],
+    "category": "neurological"
+  },
+  "Cerebellar edema": {
+    "common_symptoms": [
+      "Cerebellar edema"
+    ],
+    "differentiating_symptoms": [
+      "Edema of the cerebellum",
+      "Oedema of the cerebellum"
+    ],
+    "description": "Swelling from fluid accumulation (serous fluid infiltration into the interstitial space) in the cerebellum. Cerebellar edama can manifest on magnetic resonance imaging as hyperintense T2 and FLAIR sig...",
+    "hpo_id": "0030915",
+    "related_terms": [
+      "Cerebellar edema",
+      "Edema of the cerebellum",
+      "Oedema of the cerebellum"
+    ],
+    "category": "general"
+  },
+  "Anal pain": {
+    "common_symptoms": [
+      "Anal pain",
+      "Anorectal pain",
+      "Rectal pain"
+    ],
+    "differentiating_symptoms": [],
+    "description": "Pain in and around the anus or rectum (perianal region).",
+    "hpo_id": "0500005",
+    "related_terms": [
+      "Proctalgia"
+    ],
+    "category": "general"
+  },
+  "Lower limb muscle weakness": {
+    "common_symptoms": [
+      "Leg weakness",
+      "Lower extremity weakness"
+    ],
+    "differentiating_symptoms": [
+      "Lower limb muscle weakness",
+      "Lower limb weakness",
+      "Muscle weakness in lower limbs"
+    ],
+    "description": "Weakness of the muscles of the legs. Inability to perform rapid, alternating movements.",
+    "hpo_id": "0007340",
+    "related_terms": [
+      "Leg weakness",
+      "Lower extremity weakness",
+      "Lower limb muscle weakness"
+    ],
+    "category": "musculoskeletal"
+  },
+  "Antepartum hemorrhage": {
+    "common_symptoms": [
+      "Antepartum haemorrhage"
+    ],
+    "differentiating_symptoms": [
+      "Prepartum haemorrhage",
+      "Prepartum hemorrhage"
+    ],
+    "description": "Significant maternal hemorrhage/bleed in the second half of pregnancy and prior to the birth of the baby.",
+    "hpo_id": "0025328",
+    "related_terms": [
+      "Antepartum haemorrhage",
+      "Prepartum haemorrhage",
+      "Prepartum hemorrhage"
+    ],
+    "category": "developmental"
+  },
+  "Curved 2nd toe phalanx": {
+    "common_symptoms": [
+      "Curved bones of the 2nd toe"
+    ],
+    "differentiating_symptoms": [
+      "Curved phalanges of the 2nd toe"
+    ],
+    "description": "A deviation from the normal straight form of one or more phalanges of the second toe.",
+    "hpo_id": "0010350",
+    "related_terms": [
+      "Curved bones of the 2nd toe",
+      "Curved phalanges of the 2nd toe"
+    ],
+    "category": "general"
+  },
+  "Decreased erythrocyte sedimentation rate": {
+    "common_symptoms": [
+      "Decreased ESR"
+    ],
+    "differentiating_symptoms": [
+      "Low ESR"
+    ],
+    "description": "A reduced erythrocyte sedimentation rate (ESR). The ESR is a test that measures the distance that erythrocytes have fallen after one hour in a vertical column of anticoagulated blood under the influen...",
+    "hpo_id": "0025022",
+    "related_terms": [
+      "Decreased ESR",
+      "Low ESR"
+    ],
+    "category": "general"
+  },
+  "Narrow foot": {
+    "common_symptoms": [
+      "Narrow foot"
+    ],
+    "differentiating_symptoms": [
+      "Slender feet"
+    ],
+    "description": "A foot for which the measured width is below the 5th centile for age; or, a foot that appears disproportionately narrow for its length.",
+    "hpo_id": "0001786",
+    "related_terms": [
+      "Narrow foot",
+      "Slender feet"
+    ],
+    "category": "sensory"
+  },
+  "Hyperactivity": {
+    "common_symptoms": [
+      "Hyperactive behavior",
+      "Hyperactive behaviour"
+    ],
+    "differentiating_symptoms": [
+      "Hyperkinetic disorder",
+      "More active than typical",
+      "hyperkinetic disorder"
+    ],
+    "description": "Hyperactivity is a condition characterized by constant and unusually high levels of activity, even in situations where it is deemed inappropriate.",
+    "hpo_id": "0000752",
+    "related_terms": [
+      "Hyperactive behavior",
+      "Hyperactive behaviour",
+      "Hyperkinetic disorder"
+    ],
+    "category": "general"
+  },
+  "Glenoid fossa hypoplasia": {
+    "common_symptoms": [
+      "Glenoid hypoplasia"
+    ],
+    "differentiating_symptoms": [
+      "Hypoplastic glenoid fossa"
+    ],
+    "description": "Underdevelopment of the glenoid fossa, which is the cavity in the lateral part of the scapula which articulates with the head of the humerus.",
+    "hpo_id": "0006633",
+    "related_terms": [
+      "Glenoid hypoplasia",
+      "Hypoplastic glenoid fossa"
+    ],
+    "category": "developmental"
+  },
+  "Dialeptic seizure": {
+    "common_symptoms": [
+      "Behavioral arrest seizure with impairment of awareness irrespective of onset",
+      "Behavioural arrest seizure with impairment of awareness irrespective of onset"
+    ],
+    "differentiating_symptoms": [
+      "Unknown onset behavioral arrest seizure with impairment of awareness",
+      "Unknown onset behavioural arrest seizure with impairment of awareness"
+    ],
+    "description": "A dialeptic seizure is a type of seizure characterized predominantly by reduced responsiveness or awareness and with subsequent at least partial amnesia of the event. The main ictal manifestation of d...",
+    "hpo_id": "0011146",
+    "related_terms": [
+      "Behavioral arrest seizure with impairment of awareness irrespective of onset",
+      "Behavioural arrest seizure with impairment of awareness irrespective of onset",
+      "Unknown onset behavioral arrest seizure with impairment of awareness"
+    ],
+    "category": "neurological"
+  },
+  "Triggered by heavy meal": {
+    "common_symptoms": [
+      "Heavy meal triggered symptoms"
+    ],
+    "differentiating_symptoms": [
+      "Triggered by overeating"
+    ],
+    "description": "Applies to a sign or symptom that is provoked or brought about by eating large quantities of food, for instance, by a heavy meal.",
+    "hpo_id": "0025216",
+    "related_terms": [
+      "Heavy meal triggered symptoms",
+      "Triggered by overeating"
+    ],
+    "category": "general"
+  },
+  "Right ventricular failure": {
+    "common_symptoms": [
+      "Impaired right ventricular function"
+    ],
+    "differentiating_symptoms": [
+      "Right ventricular impairment",
+      "Right-sided heart failure"
+    ],
+    "description": "Reduced ability of the right ventricle to perform its function (to receive blood from the right atrium and to eject blood into the pulmonary artery), often leading to pitting peripheral edema, ascites...",
+    "hpo_id": "0001708",
+    "related_terms": [
+      "Impaired right ventricular function",
+      "Right ventricular impairment",
+      "Right-sided heart failure"
+    ],
+    "category": "respiratory"
+  },
+  "Intra-oral hyperpigmentation": {
+    "common_symptoms": [
+      "Hyperpigmentation of oral mucosa",
+      "Oral mucosa melanin pigmentation",
+      "Oral racial pigmentation",
+      "Dark color of gums"
+    ],
+    "differentiating_symptoms": [
+      "Dark colour of gums",
+      "Gingival hyperpigmentation",
+      "Gingival melanin pigmentation",
+      "Pigmented gums"
+    ],
+    "description": "Increased pigmentation, either focal or generalized, of the mucosa of the mouth. Pigmentation of alveolar ridges is common in people with dark skin pigmentation. This term encompasses a range of pigme...",
+    "hpo_id": "0010284",
+    "related_terms": [
+      "Hyperpigmentation of oral mucosa",
+      "Oral mucosa melanin pigmentation",
+      "Oral racial pigmentation"
+    ],
+    "category": "general"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "patients": [
+        {
+            "patient_id": "P001",
+            "record_text": "Patient, 74 years old, male, presents with right lower back pain radiating to the right lower limb, with numbness in both feet. Reports that the pain worsens when standing or walking for long distances, but feels significant relief when sitting or leaning forward. Denies fever or weight loss. History of controlled hypertension.",
+            "potential_diagnosis_notes": "Suspected lumbar spinal stenosis due to postural relief."
+        },
+        {
+            "patient_id": "P002",
+            "record_text": "Patient, 45 years old, female, complains of acute lower back pain that started after lifting a heavy object. The pain radiates to the buttock and posterior aspect of the left thigh, down to the foot. States that the pain worsens when sitting for prolonged periods and when coughing or sneezing. Slightly improves with walking. Denies significant recent trauma.",
+            "potential_diagnosis_notes": "Suggestive of sciatica, possibly due to a herniated disc, due to worsening симптоms when sitting."
+        },
+        {
+            "patient_id": "P003",
+            "record_text": "Patient, 68 years old, reports progressively blurred vision in both eyes over the past few months, especially at night or in low-light environments. Denies eye pain. Mentions difficulty reading small print and seeing halos around lights.",
+            "potential_diagnosis_notes": "Symptoms suggestive of a refractive error or lens opacity."
+        }
+    ]
+}
