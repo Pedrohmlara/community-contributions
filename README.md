@@ -13,7 +13,7 @@ Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer
 
 - Entity-Centric RAG for Healthcare: Implementing MES-RAG & MedRAG Principles with Vertex AI and HPO to Address Entity Confusion **(en)** -  https://colab.research.google.com/drive/1SkkVBzsdNpiJyQkc17-gSEMKjxx2_p81?usp=sharing
 - Passo a Passo - Entity-Centric RAG for Healthcare **(pt-BR)** - https://www.youtube.com/watch?v=Mr_jryrO4J0
-- Software Engineering at Silicon Valley / Engenharia de Software no Vale do Silício **(pt-BR)** – A aplicação prática da ciência **(pt-BR)** 
+- Software Engineering at Silicon Valley / Engenharia de Software no Vale do Silício **(pt-BR)**
 - Fundamentals of Artificial Intelligence: Exploring Machine Learning, Deep Learning, and Generative AI **(en)** - https://medium.com/@pedrohmlara/fundamentals-of-artificial-intelligence-exploring-machine-learning-deep-learning-and-generative-984ee4ad9fe0
 - Fundamentos da Inteligência Artificial: Explorando ML, Deep Learning e GenAI **(pt-BR)** - https://youtu.be/r0WO-2_gVYA?si=XYkRw5M2Juxdglzq
 
