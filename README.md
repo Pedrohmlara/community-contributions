@@ -11,6 +11,7 @@ Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer
 
 ### 2025
 
+- Entity-Centric RAG for Healthcare (MES-RAG, MedRAG, and VertexAI) **(en)** - https://medium.com/@pedrohmlara/entity-centric-rag-for-healthcare-mes-rag-medrag-and-vertexai-80a0d36be7bf
 - Entity-Centric RAG for Healthcare: Implementing MES-RAG & MedRAG Principles with Vertex AI and HPO to Address Entity Confusion **(en)** -  https://colab.research.google.com/drive/1SkkVBzsdNpiJyQkc17-gSEMKjxx2_p81?usp=sharing
 - Passo a Passo - Entity-Centric RAG for Healthcare **(pt-BR)** - https://www.youtube.com/watch?v=Mr_jryrO4J0
 - Software Engineering at Silicon Valley / Engenharia de Software no Vale do Silício **(pt-BR)**
