@@ -22,6 +22,7 @@ Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer
 
 ### Until 2024
 
+- Applications of GenAI for your business **(pt-BR)** - https://www.linkedin.com/posts/pedrohmlara_genai-googledevelopergroups-redbullbasement-activity-7256648717422747649-r9tw
 - Construindo um “Guia de Viagem” com Gemini-1.5-Flash na VertexAI em Go **(pt-BR)** - https://www.instagram.com/p/C92LrzgRajm/
 - Engenharia de Software – A aplicação prática da ciência **(pt-BR)** - https://www.instagram.com/p/C77deiNvgM6/
 - Empowering communities through technology: the Impact of Google Developer Groups (GDGs) **(en)** - https://medium.com/@pedrohmlara/empowering-communities-through-technology-the-impact-of-google-developer-groups-gdgs-967d9cab58a8
