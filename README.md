@@ -11,6 +11,7 @@ Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer
 
 ### 2025
 
+- Architecting AI/ML Solutions on GCP **(pt-BR)** - https://gdg.community.dev/events/details/google-gdg-nova-lima-presents-architecting-aiml-solutions-on-gcp/ **(en-US)** - https://docs.google.com/presentation/d/1IYYqnlQW_mgrmQP8RQ7g8z1VSSWabtwAbVdYp72K7Us/edit?usp=sharing 
 - Agentic Search for GitHub: A RAG‑Free Approach to Code Search and Data Retrieval  **(en)** - https://github.com/Pedrohmlara/github-agentic-search
 - SFT for SLMs: Hands-On Implementation in Customer Support **(en)** - https://colab.research.google.com/drive/1LrMNob2O3gWlpFdwvjkhwsOJkj99SwRP?usp=sharing
 - Entity-Centric RAG for Healthcare (MES-RAG, MedRAG, and VertexAI) **(en)** - https://medium.com/@pedrohmlara/entity-centric-rag-for-healthcare-mes-rag-medrag-and-vertexai-80a0d36be7bf
