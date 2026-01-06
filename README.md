@@ -1,5 +1,5 @@
 # Contributions to the community
-Senior Software Engineer. AI/ML in GCP (Google Cloud Platform). Google Developer Groups (GDG) Lead Organizer at Nova Lima Chapter.
+Senior Software Engineer at [Plank](https://github.com/joinplank) 🇺🇸. AI/ML in GCP (Google Cloud Platform). Google Developer Groups (GDG) Lead Organizer at Nova Lima Chapter.
 
 - Medium: https://medium.com/@pedrohmlara
 - LinkedIn: https://www.linkedin.com/in/pedrohmlara/
