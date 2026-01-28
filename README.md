@@ -5,11 +5,11 @@
 # Hi, I'm Pedro!
 Senior Data Scientist at [IBM](https://www.ibm.com/us-en). Google Developer Expert in Cloud AI. AI/ML by University of Texas at Austin.
 
-- Medium: https://medium.com/@pedrohmlara
-- LinkedIn: https://www.linkedin.com/in/pedrohmlara/
-- YouTube: https://www.youtube.com/@pedrohmlara
-- Instagram: https://www.instagram.com/pedrohmlara/
-- Google Developer Profile: https://g.dev/pedrohmlara
+- [Medium](https://medium.com/@pedrohmlara)
+- [LinkedIn](https://www.linkedin.com/in/pedrohmlara/)
+- [YouTube](https://www.youtube.com/@pedrohmlara)
+- [Instagram](https://www.instagram.com/pedrohmlara/)
+- [Google Developer Profile](https://g.dev/pedrohmlara)
 
 ## Contributions
 
