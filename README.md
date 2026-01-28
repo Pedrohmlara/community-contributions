@@ -1,5 +1,9 @@
-# Contributions to the community
-Senior Data Scientis at [IBM](https://www.ibm.com/us-en). Google Developer Expert in Cloud AI. AI/ML by University of Texas at Austin.
+
+<img width="2084" height="288" alt="header" src="https://github.com/user-attachments/assets/9c38745c-f189-4b61-9873-3dc2e1f29528" />
+
+
+# Hi, I'm Pedro!
+Senior Data Scientist at [IBM](https://www.ibm.com/us-en). Google Developer Expert in Cloud AI. AI/ML by University of Texas at Austin.
 
 - Medium: https://medium.com/@pedrohmlara
 - LinkedIn: https://www.linkedin.com/in/pedrohmlara/
