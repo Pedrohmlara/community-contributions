@@ -1,5 +1,5 @@
 
-<img width="2084" height="288" alt="header" src="https://github.com/user-attachments/assets/9c38745c-f189-4b61-9873-3dc2e1f29528" />
+<img width="150" height="150" alt="header (1)" src="https://github.com/user-attachments/assets/31440930-d5f4-4b2a-920f-c589b71855a1" />
 
 
 # Hi, I'm Pedro!
