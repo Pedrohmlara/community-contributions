@@ -1,5 +1,5 @@
 # Contributions to the community
-Senior Software Engineer at [Plank](https://github.com/joinplank) 🇺🇸. AI/ML in GCP (Google Cloud Platform). Google Developer Groups (GDG) Lead Organizer at Nova Lima Chapter.
+Senior Data Scientis at [IBM](https://www.ibm.com/us-en). Google Developer Expert in Cloud AI. AI/ML by University of Texas at Austin.
 
 - Medium: https://medium.com/@pedrohmlara
 - LinkedIn: https://www.linkedin.com/in/pedrohmlara/
